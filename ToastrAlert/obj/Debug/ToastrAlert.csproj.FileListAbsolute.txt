@@ -1,0 +1,5 @@
+C:\Users\Oluseye\source\repos\ToastrAlert\ToastrAlert\bin\Debug\ToastrAlert.dll
+C:\Users\Oluseye\source\repos\ToastrAlert\ToastrAlert\bin\Debug\ToastrAlert.pdb
+C:\Users\Oluseye\source\repos\ToastrAlert\ToastrAlert\obj\Debug\ToastrAlert.csproj.CoreCompileInputs.cache
+C:\Users\Oluseye\source\repos\ToastrAlert\ToastrAlert\obj\Debug\ToastrAlert.dll
+C:\Users\Oluseye\source\repos\ToastrAlert\ToastrAlert\obj\Debug\ToastrAlert.pdb
